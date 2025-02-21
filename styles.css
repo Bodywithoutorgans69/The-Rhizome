@@ -15,7 +15,7 @@ body {
 
 /* Header Section */
 header {
-    background: url('images/IMG_0416.JPG') no-repeat center center/cover; /* Set IMG_0416.JPG as the header background image */
+    background: url('IMG_0416.JPG') no-repeat center center/cover; /* Set IMG_0416.JPG as the header background image */
     padding: 100px 20px;
     color: #ffffff;
     text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
@@ -144,7 +144,7 @@ section.about p {
 /* Grunge Effect Background */
 body {
     background: #0d0d0d; /* Dark background for the entire page */
-    background-image: url('images/DSC06204.JPG'); /* Set DSC06204.JPG as the background texture */
+    background-image: url('DSC06204.JPG'); /* Set DSC06204.JPG as the background texture */
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
