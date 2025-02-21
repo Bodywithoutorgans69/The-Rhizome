@@ -143,7 +143,6 @@ section.about p {
 
 /* Grunge Effect Background */
 body {
-    background: #0d0d0d; /* Dark background for the entire page */
     background-image: url('DSC06204.JPG'); /* Set DSC06204.JPG as the background texture */
     background-size: cover;
     background-position: center;
