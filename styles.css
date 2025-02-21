@@ -7,7 +7,6 @@
 
 body {
     font-family: 'Courier New', Courier, monospace; /* Raw, typewriter-style font */
-    color: #f2f2f2; /* Light gray text for contrast */
     line-height: 1.5;
     text-align: center;
 }
@@ -16,7 +15,6 @@ body {
 header {
     background: url('IMG_0416.JPG') no-repeat center center/cover; /* Set IMG_0416.JPG as the header background image */
     padding: 100px 20px;
-    color: #ffffff;
     text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
     font-size: 2em;
 }
@@ -57,7 +55,6 @@ header nav ul li a:hover {
 /* Main Content Area */
 main {
     padding: 50px 20px;
-    background: #222;
 }
 
 section.post {
