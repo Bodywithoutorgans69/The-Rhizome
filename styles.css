@@ -7,7 +7,6 @@
 
 body {
     font-family: 'Courier New', Courier, monospace; /* Raw, typewriter-style font */
-    background-color: #0d0d0d; /* Very dark background for intensity */
     color: #f2f2f2; /* Light gray text for contrast */
     line-height: 1.5;
     text-align: center;
@@ -64,7 +63,6 @@ main {
 section.post {
     margin-bottom: 40px;
     padding: 20px;
-    background: #333;
     border: 3px solid #555; /* Subtle grunge border */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
 }
@@ -105,7 +103,6 @@ section.post a:hover {
 footer {
     background: #0d0d0d;
     padding: 30px 20px;
-    color: #666;
     border-top: 1px solid #555;
 }
 
